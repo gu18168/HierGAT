@@ -1,0 +1,1 @@
+FastText pre-train model `wiki.en.bin` can be downloaded at https://drive.google.com/uc?export=download&id=1Vih8gAmgBnuYDxfblbT94P6WjB7s1ZSh
